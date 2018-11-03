@@ -1,0 +1,7 @@
+.vscode/
+data/
+tmp/
+ppt/
+*.p
+
+__pycache__/

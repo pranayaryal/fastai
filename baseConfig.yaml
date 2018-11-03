@@ -1,0 +1,7 @@
+
+parameters:
+#Data
+  bulldozer_train_filepath: /data/bulldozer/train.csv
+  train_pickle: df.p
+  bulldozer_train_feather: tmp/raw
+  houseprice_train_filepath: data/housePrice/housePriceTrain.csv
